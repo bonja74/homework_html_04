@@ -1,0 +1,1 @@
+#main{	background: #fff;	display: table;}#right,#left,#content{	display: table-cell;	float: none;}#right,#left{	background: #eee;}#left{	border-right: 1px solid #ccc;}#right{	border-left: 1px solid #ccc;}
